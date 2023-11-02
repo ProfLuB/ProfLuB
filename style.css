@@ -1,0 +1,42 @@
+body {
+    background: rgb(246, 117, 117);
+}
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}    
+#banner {
+    width: 12%;
+    height: 5%;
+}
+
+.titulo-principal {
+    color:rgb(255, 0, 13);
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 20px;
+}
+
+p {
+    text-align: center;
+    color:rgb(18, 113, 196);
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+.itens {
+    font-style: italic;
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.instituicao {
+    background: #ae9595;
+    padding: 20px;
+}
+
+
